@@ -1,0 +1,72 @@
+{
+  "format": "open-xy-project",
+  "project": {
+    "bytes": 15169,
+    "crc32": "feab3a1f"
+  },
+  "sections": {
+    "open-xy.machines": {
+      "machines": {
+        "breadboard": {
+          "engine": 45,
+          "page": 85
+        },
+        "butterfly": {
+          "engine": 40,
+          "page": 118
+        },
+        "fm2op": {
+          "engine": 34,
+          "page": 82
+        },
+        "hurdygurdy": {
+          "engine": 36,
+          "page": 84
+        },
+        "karplus": {
+          "engine": 191,
+          "page": 251
+        },
+        "macroosc": {
+          "engine": 26,
+          "page": 83
+        },
+        "matrixy": {
+          "engine": 245,
+          "page": 90
+        },
+        "mmvo6": {
+          "engine": 51,
+          "page": 99
+        },
+        "moth": {
+          "engine": 39,
+          "page": 112
+        },
+        "nightdrive": {
+          "engine": 49,
+          "page": 97
+        },
+        "pingpong": {
+          "effect": 8,
+          "page": 21
+        },
+        "ringmod": {
+          "effect": 1,
+          "page": 21
+        },
+        "timestretch": {
+          "engine": 35,
+          "page": 7
+        },
+        "troupe": {
+          "engine": 218,
+          "page": 194
+        }
+      },
+      "profile": "opxy-1.2.1",
+      "version": 1
+    }
+  },
+  "version": 1
+}
